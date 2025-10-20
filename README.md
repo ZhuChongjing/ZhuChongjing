@@ -1,16 +1,39 @@
-## Hi there 👋
+# 👋 Hi, I'm ZhuChongjing
 
-<!--
-**ZhuChongjing/ZhuChongjing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Student** | 🐍 **Python Enthusiast** | 🎥 **CodeVideoRenderer**
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ✨ About Me
+
+💻 I am a passionate student who loves programming, always learning and experimenting with new technologies. Python is my go-to language for creating and exploring cool projects!
+
+
+## 🚀 Skills
+
+- 🐍 Python
+- 🎬 Video Rendering & Automation
+- 🎨 Creative Coding
+
+
+## 🗂️ Featured Project
+
+### 💡 CodeVideoRenderer
+
+A Python library for rendering code videos
+
+<Card title="CodeVideoRenderer">
+  CodeVideoRenderer
+</Card>
+
+
+## 🔗 Connect With Me
+
+- Douyin: [探索数学(Explore Maths)](https://www.douyin.com/user/MS4wLjABAAAARrTya1bIs9cvLXdWP7wo2ZiuYa3jAqQszrF4Qci58I1n8SQyd_6Rw9E8s2K3LfB2)
+
+
+## 💡 Fun Fact
+
+🌱 I love learning new programming concepts and sharing them with others!
+
+
+✨ Feel free to check out my projects and connect with me!
