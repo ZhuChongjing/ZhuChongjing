@@ -17,13 +17,7 @@
 
 ## 🗂️ Featured Project
 
-### 💡 CodeVideoRenderer
-
-A Python library for rendering code videos
-
-<Card title="CodeVideoRenderer">
-  CodeVideoRenderer
-</Card>
+### [CodeVideoRenderer](https:/github.com/ZhuChongjing/CodeVideoRenderer)
 
 
 ## 🔗 Connect With Me
